@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace App\Events; // eh da vidimo majkaa
 
 use App\Models\Room;
 use Illuminate\Broadcasting\Channel;
